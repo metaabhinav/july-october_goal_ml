@@ -9,9 +9,9 @@ image recognition, regression, clustering, to reinforcement learning, providing 
 
 In this Final Project I have to apply several different supervised machine learning techniques to the "mammographic masses" public data set, and see which one yields the
 highest accuracy as measured with K-Fold cross validation (K=10). Apply:
-Decision tree
-Random forest
-KNN
-Naive Bayes
-SVM
-Logistic Regression
+Decision tree,
+Random forest,
+KNN,
+Naive Bayes,
+SVM,
+Logistic Regression,
